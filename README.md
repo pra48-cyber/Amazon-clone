@@ -30,3 +30,6 @@ amazon_logo.png, hero_image.jpg – Image assets used for branding and the hero 
 
 📝 Note
 This project is for educational purposes only and is not affiliated with Amazon in any way.
+
+This project is deployed on netlify.
+Link-https://683693ebf399e2ee03a5fa43--amazon123com.netlify.app/
